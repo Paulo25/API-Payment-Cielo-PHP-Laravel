@@ -1,2 +1,2 @@
-# API-de-pagamentos-Cielo-PHP-Laravel
-API de pagamentos implementação com Laravel
+# API-Payment-Cielo-PHP-Laravel
+API de pagamentos, implementação com Laravel
